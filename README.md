@@ -1611,6 +1611,7 @@ Projects and experiments spanning:
 -   Data Science
 -   Machine Learning
 -   Deep Learning
+-   Natural Language Processing
 -   Artificial Intelligence
 -   Audio & Signal Processing
 -   Scientific Computing
